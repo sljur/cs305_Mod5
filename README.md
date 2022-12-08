@@ -11,3 +11,5 @@
 #Use the github documentation.
 #   Who maintains and contributes to the project
 #Anyone who actually works on this repository via forking, creating a pull request, being a collabortor, or makes a commit. 
+#   Hypothetical module add on by tyler249
+#Add on a file with text to teach people more about colloboration on GitHub.
